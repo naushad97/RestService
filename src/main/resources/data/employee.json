@@ -1,0 +1,14 @@
+{
+  "employee": [
+    {
+      "empId": "e1",
+      "empName": "R1",
+      "schedule": "000111000111000"
+    },
+    {
+      "empId": "e1",
+      "empName": "R1",
+      "schedule": "000111000111000"
+    }
+  ]
+}
