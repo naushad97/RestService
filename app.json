@@ -13,6 +13,6 @@
   "buildpacks": [
     {
       "url": "heroku/java"
-    }
+    }   
   ]
 }
